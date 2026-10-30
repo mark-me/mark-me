@@ -60,6 +60,7 @@ Turning a team of newcomers into one that builds a product professionally comes 
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**Sleeve & Shelf**](https://github.com/mark-me/sleeve-shelf) | Organises a vinyl collection across physical shelves by musical kinship, artist era and shelf space — synced with Discogs, with a phased product roadmap | Python · Flask · DuckDB · Cytoscape.js · Docker |
 | [**network-wiki**](https://github.com/mark-me/network-wiki) | Python package that turns a graph into an interactive HTML page where every node and edge has its own wiki | Python · igraph · vis.js · Jinja2 · Flask |
 | [**Mixtape Society**](https://github.com/mark-me/mixtape-society) | Self-hosted web app to create, share and play mixtapes from your own music library | Flask · Docker · PWA |
 | [**Mnemosynce**](https://github.com/mark-me/mnemosynce) | Backup orchestrator for Linux home servers: rsync snapshots, retention and a web dashboard | Python · rsync · APScheduler · Docker |
