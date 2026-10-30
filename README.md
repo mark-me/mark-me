@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/markzwart76/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mark.zwart@pobox.com"><img src="https://img.shields.io/badge/Email-333333?style=flat&logo=maildotru&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Based_in-the_Netherlands-FF6600?style=flat" alt="Netherlands">
 </p>
@@ -14,7 +14,7 @@
 
 ### 🧭 About me
 
-For 20+ years I've done the same three things in every role: **bring in a data technique the organisation doesn't have yet, build the way of working that lets a team deliver it reliably, and make it make sense to the people who use it.** These days I do that as Product Owner while still writing the code.
+For 20+ years I've done the same three things in every role: **bring in a data technique the organisation doesn't have yet, build the way of working that lets a team deliver it reliably, and make it land with the people who use it.** These days I do that as Product Owner while still writing the code.
 
 I also like to think along on strategy and how to back it with data — often the question of what it costs to build a customer base, when it turns profitable, and how to keep it healthy.
 
@@ -24,6 +24,7 @@ I also like to think along on strategy and how to back it with data — often th
 - 🌷 **Bakker Hillegom (2002 – 2015)** — Built predictive models for customer buying behaviour years before "machine learning" was a buzzword, set up the analysis and test policy around them, owned the multi-year customer base plans — acquisition cost, payback and churn — and the marketing budgets that followed from them, and led the build of a marketing data warehouse and a multi-channel content management system.
 - 🧮 **Delphi (2007 – 2008)** — Strategic 5-year plans for growing and retaining donor bases for charities.
 - 🎓 Psychology (Leiden) — thesis on categorisation, modelled with a neural network back in 2002.
+- 🎭 Amateur actor, director (two years) and theatre board member — the stage taught me what I bring to every presentation: know your audience, know what they need, and know what you want them to do next.
 
 ---
 
@@ -58,7 +59,7 @@ Turning a team of newcomers into one that builds a product professionally comes 
 ### 🚀 Featured projects
 
 | Project | What it does | Stack |
-| --- | --- | --- |
+|---|---|---|
 | [**network-wiki**](https://github.com/mark-me/network-wiki) | Python package that turns a graph into an interactive HTML page where every node and edge has its own wiki | Python · igraph · vis.js · Jinja2 · Flask |
 | [**Mixtape Society**](https://github.com/mark-me/mixtape-society) | Self-hosted web app to create, share and play mixtapes from your own music library | Flask · Docker · PWA |
 | [**Mnemosynce**](https://github.com/mark-me/mnemosynce) | Backup orchestrator for Linux home servers: rsync snapshots, retention and a web dashboard | Python · rsync · APScheduler · Docker |
