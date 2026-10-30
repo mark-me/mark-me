@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mark Zwart 👋</h1>
 <p align="center">
-  <b>Data &amp; analytics lead who still writes the code</b><br>
-  Product Owner · Python developer · Model Driven Data Engineering
+  <b>I build innovative data products — and the teams that build them</b><br>
+  Product Owner · Hands-on Python architect · Model Driven Data Engineering
 </p>
 
 <p align="center">
@@ -14,14 +14,25 @@
 
 ### 🧭 About me
 
-I've spent 20+ years turning data into decisions — from building marketing data warehouses and predictive models to leading an analytics department. These days I combine product ownership with hands-on development.
+For 20+ years I've done the same three things in every role: **bring in a data technique the organisation doesn't have yet, build the way of working that lets a team deliver it reliably, and make it make sense to the people who use it.** These days I do that as Product Owner while still writing the code.
 
-- 🏛️ **Dutch Customs (2024 – now)** — Product Owner and co-developer of a **Model Driven Data Engineering (MDDE)** platform in Python that generates data warehouse code from data models. Leading a team of six, and bringing them from zero Python experience to contributing developers.
+- 🏛️ **Dutch Customs (2024 – now)** — Product Owner and co-developer of a **Model Driven Data Engineering (MDDE)** platform in Python that generates data warehouse code from data models. Leading a team of six that started with no Python experience and now builds and ships the platform.
 - 📈 **Startup (3 months)** — Built the strategic financial plan and 5-year model for investor presentations.
 - 🏢 **Graydon (2015 – 2024)** — From Marketing Intelligence Analyst to **Director of Analytics**: cloud/Kubernetes architecture for tailored analytics products, score-model migration to a new data platform, and the review & versioning workflow behind it.
+- 🌷 **Bakker Hillegom (2002 – 2015)** — Built predictive models for customer buying behaviour years before "machine learning" was a buzzword, set up the analysis and test policy around them, and led the build of a marketing data warehouse and a multi-channel content management system.
 - 🎓 Psychology (Leiden) — thesis on categorisation, modelled with a neural network back in 2002.
 
-I care about **clean architecture, strict separation of concerns, and documentation people actually read** — and about helping teams grow into that.
+---
+
+### 🌱 How I grow teams
+
+Turning a team of newcomers into one that builds a product professionally comes down to a few habits:
+
+- 🚦 **A stable release strategy** — formalised, so everyone knows when and how code reaches production.
+- 🌿 **A git strategy that scales** — branching and merging that keeps working across multiple repositories.
+- 🧱 **Programming principles** — separation of concerns, single responsibility and clean architecture as the shared language for design and review.
+- ✅ **Test plans as the release gate** — no release without a test plan that was written, used and signed off.
+- 🎯 **Thinking from the consumer** — understanding what the users of our products care about, and shaping both the product and the story around that.
 
 ---
 
@@ -44,25 +55,13 @@ I care about **clean architecture, strict separation of concerns, and documentat
 ### 🚀 Featured projects
 
 | Project | What it does | Stack |
-| --- | --- | --- |
-| [**network-wiki**](https://github.com/mark-me/network-wiki) | Python package for interactive HTML network visualisations, with Flask integration and full docs | Python · vis.js · Bootstrap · GitHub Actions |
-| [**Mixtape Society**](https://github.com/mark-me/mixtape-society) | Self-hosted web app to create, share and play mixtapes from your own music library | Flask · Docker |
-| [**Mnemosynce**](https://github.com/mark-me/mnemosynce) | Self-hosted backup orchestration with a web UI and scheduling | Python · rsync · APScheduler · Docker |
-| [**gantt-static-html**](https://github.com/mark-me/gantt-static-html) | Generates self-contained Gantt chart pages | Python · Jinja2 · frappe-gantt |
+|---|---|---|
+| [**network-wiki**](https://github.com/mark-me/network-wiki) | Python package that turns a graph into an interactive HTML page where every node and edge has its own wiki | Python · igraph · vis.js · Jinja2 · Flask |
+| [**Mixtape Society**](https://github.com/mark-me/mixtape-society) | Self-hosted web app to create, share and play mixtapes from your own music library | Flask · Docker · PWA |
+| [**Mnemosynce**](https://github.com/mark-me/mnemosynce) | Backup orchestrator for Linux home servers: rsync snapshots, retention and a web dashboard | Python · rsync · APScheduler · Docker |
 
 ---
 
-### 🌱 Currently
+### 💬 Let's talk about
 
-- Scaling an MDDE code-generation platform and the team that builds it
-- Building self-hosted tools for my home server
-- Always happy to talk about data architecture, team growth, or good music
-
-<!--
-Optional: live stats. The public github-readme-stats instance is often rate-limited;
-deploy your own on Vercel if you want this to be reliable.
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mark-me&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark-me&layout=compact&hide_border=true" />
-</p>
--->
+Innovative data projects, model-driven engineering, and growing teams that build products to last.
