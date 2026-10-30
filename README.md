@@ -16,10 +16,13 @@
 
 For 20+ years I've done the same three things in every role: **bring in a data technique the organisation doesn't have yet, build the way of working that lets a team deliver it reliably, and make it make sense to the people who use it.** These days I do that as Product Owner while still writing the code.
 
+I also like to think along on strategy and how to back it with data — often the question of what it costs to build a customer base, when it turns profitable, and how to keep it healthy.
+
 - 🏛️ **Dutch Customs (2024 – now)** — Product Owner and co-developer of a **Model Driven Data Engineering (MDDE)** platform in Python that generates data warehouse code from data models. Leading a team of six that started with no Python experience and now builds and ships the platform.
-- 📈 **Startup (3 months)** — Built the strategic financial plan and 5-year model for investor presentations.
+- 📈 **Startup (3 months)** — Built the 5-year strategic financial plan that substantiated the growth case for investors.
 - 🏢 **Graydon (2015 – 2024)** — From Marketing Intelligence Analyst to **Director of Analytics**: cloud/Kubernetes architecture for tailored analytics products, score-model migration to a new data platform, and the review & versioning workflow behind it.
-- 🌷 **Bakker Hillegom (2002 – 2015)** — Built predictive models for customer buying behaviour years before "machine learning" was a buzzword, set up the analysis and test policy around them, and led the build of a marketing data warehouse and a multi-channel content management system.
+- 🌷 **Bakker Hillegom (2002 – 2015)** — Built predictive models for customer buying behaviour years before "machine learning" was a buzzword, set up the analysis and test policy around them, owned the multi-year customer base plans — acquisition cost, payback and churn — and the marketing budgets that followed from them, and led the build of a marketing data warehouse and a multi-channel content management system.
+- 🧮 **Delphi (2007 – 2008)** — Strategic 5-year plans for growing and retaining donor bases for charities.
 - 🎓 Psychology (Leiden) — thesis on categorisation, modelled with a neural network back in 2002.
 
 ---
@@ -55,7 +58,7 @@ Turning a team of newcomers into one that builds a product professionally comes 
 ### 🚀 Featured projects
 
 | Project | What it does | Stack |
-|---|---|---|
+| --- | --- | --- |
 | [**network-wiki**](https://github.com/mark-me/network-wiki) | Python package that turns a graph into an interactive HTML page where every node and edge has its own wiki | Python · igraph · vis.js · Jinja2 · Flask |
 | [**Mixtape Society**](https://github.com/mark-me/mixtape-society) | Self-hosted web app to create, share and play mixtapes from your own music library | Flask · Docker · PWA |
 | [**Mnemosynce**](https://github.com/mark-me/mnemosynce) | Backup orchestrator for Linux home servers: rsync snapshots, retention and a web dashboard | Python · rsync · APScheduler · Docker |
@@ -64,4 +67,4 @@ Turning a team of newcomers into one that builds a product professionally comes 
 
 ### 💬 Let's talk about
 
-Innovative data projects, model-driven engineering, and growing teams that build products to last.
+Innovative data projects, model-driven engineering, growing teams that build products to last — and the business case behind them.
