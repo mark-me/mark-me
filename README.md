@@ -50,6 +50,7 @@ Turning a team of newcomers into one that builds a product professionally comes 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat&logo=microsoftazure&logoColor=white)
@@ -64,6 +65,8 @@ Turning a team of newcomers into one that builds a product professionally comes 
 | [**network-wiki**](https://github.com/mark-me/network-wiki) | Python package that turns a graph into an interactive HTML page where every node and edge has its own wiki | Python · igraph · vis.js · Jinja2 · Flask |
 | [**Mixtape Society**](https://github.com/mark-me/mixtape-society) | Self-hosted web app to create, share and play mixtapes from your own music library | Flask · Docker · PWA |
 | [**Mnemosynce**](https://github.com/mark-me/mnemosynce) | Backup orchestrator for Linux home servers: rsync snapshots, retention and a web dashboard | Python · rsync · APScheduler · Docker |
+
+Mixtape Society, Mnemosynce and Sleeve & Shelf run on my own home server, declared as code in NixOS: flakes, mirrored ZFS, encrypted secrets and automatic updates, with about 25 Docker services reachable privately via Tailscale. Mixtape Society and Sleeve & Shelf also get a separate test environment.
 
 ---
 
