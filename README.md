@@ -45,6 +45,7 @@ Turning a team of newcomers into one that builds a product professionally comes 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat&logo=polars&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=flat&logo=jinja&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -65,6 +66,7 @@ Turning a team of newcomers into one that builds a product professionally comes 
 | [**network-wiki**](https://github.com/mark-me/network-wiki) | Python package that turns a graph into an interactive HTML page where every node and edge has its own wiki | Python · igraph · vis.js · Jinja2 · Flask |
 | [**Mixtape Society**](https://github.com/mark-me/mixtape-society) | Self-hosted web app to create, share and play mixtapes from your own music library | Flask · Docker · PWA |
 | [**Mnemosynce**](https://github.com/mark-me/mnemosynce) | Backup orchestrator for Linux home servers: rsync snapshots, retention and a web dashboard | Python · rsync · APScheduler · Docker |
+| [**Music Explorer**](https://github.com/mark-me/music-explorer) | Helps you rediscover your Discogs collection with random picks from what you own, fed by an ETL pipeline that also derives an artist network | Python · Polars · DuckDB · Flask · Celery · igraph |
 
 Mixtape Society, Mnemosynce and Sleeve & Shelf run on my own home server, declared as code in NixOS: flakes, mirrored ZFS, encrypted secrets and automatic updates, with about 25 Docker services reachable privately via Tailscale. Mixtape Society and Sleeve & Shelf also get a separate test environment.
 
