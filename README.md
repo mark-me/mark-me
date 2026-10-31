@@ -18,9 +18,10 @@ For 20+ years I've done the same three things in every role: **bring in a data t
 
 I also like to think along on strategy and how to back it with data — often the question of what it costs to build a customer base, when it turns profitable, and how to keep it healthy.
 
-- 🏛️ **Dutch Customs (2024 – now)** — Product Owner and co-developer of a **Model Driven Data Engineering (MDDE)** platform in Python that generates data warehouse code from data models. Leading a team of six that started with no Python experience and now builds and ships the platform.
-- 📈 **Startup (3 months)** — Built the 5-year strategic financial plan that substantiated the growth case for investors.
-- 🏢 **Graydon (2015 – 2024)** — From Marketing Intelligence Analyst to **Director of Analytics**: cloud/Kubernetes architecture for tailored analytics products, score-model migration to a new data platform, and the review & versioning workflow behind it.
+- 🏛️ **Dutch Customs, via BAS Consultancy (2024 – now)** — Product Owner and co-developer of a **Model Driven Data Engineering (MDDE)** platform in Python that generates data warehouse code from data models. Leading a team of six that started with no Python experience and now builds and ships the platform.
+- 📈 **Startup, via BAS Consultancy (3 months)** — Built the 5-year strategic financial plan that substantiated the growth case for investors.
+- 📊 **BAS Consultancy (2023 – 2024)** — Between assignments, built on my own initiative an end-to-end reporting solution for BAS itself: validated file uploads, background report generation for finance, HR, marketing and account management, deployed with Docker.
+- 🏢 **Graydon (2015 – 2023)** — From Marketing Intelligence Analyst to **Director of Analytics**: cloud/Kubernetes architecture for tailored analytics products, score-model migration to a new data platform, and the review & versioning workflow behind it.
 - 🌷 **Bakker Hillegom (2002 – 2015)** — Built predictive models for customer buying behaviour years before "machine learning" was a buzzword, set up the analysis and test policy around them, owned the multi-year customer base plans — acquisition cost, payback and churn — and the marketing budgets that followed from them, and led the build of a marketing data warehouse and a multi-channel content management system.
 - 🧮 **Delphi (2007 – 2008)** — Strategic 5-year plans for growing and retaining donor bases for charities.
 - 🎓 Psychology (Leiden) — thesis on categorisation, modelled with a neural network back in 2002.
