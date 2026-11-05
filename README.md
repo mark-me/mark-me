@@ -26,7 +26,7 @@ I also like to think along on strategy and how to back it with data, often aroun
 - 🧮 **Delphi (2007 – 2008)**: Strategic 5-year plans for growing and retaining donor bases for charities.
 - 🎓 Psychology (Leiden), with a thesis on categorisation, modelled with a neural network back in 2002.
 - 🎭 Amateur actor, director (two years) and theatre board member. The stage taught me what I bring to every presentation: know your audience, know what they need, and know what you want them to do next.
-- ✍️ Wrote R tutorials on PCA, clustering, t-SNE and statistical tests for non-experts at [exploRations](https://mark-me.github.io/) (2017 – 2019), also shared on R-bloggers.
+- ✍️ Wrote R tutorials for non-experts at [exploRations](https://mark-me.github.io/) (2017 – 2019), also shared on R-bloggers: from PCA, clustering and statistical tests to [Mining Alice's Wonderland](https://mark-me.github.io/mining-alices-wonderland/), which profiles each character's emotions using the marketing idea of lift.
 
 ---
 
@@ -63,7 +63,7 @@ Turning a team of newcomers into one that builds a product professionally comes 
 ### 🚀 Featured projects
 
 | Project | What it does | Stack |
-|---|---|---|
+| --- | --- | --- |
 | [**Sleeve & Shelf**](https://github.com/mark-me/sleeve-shelf) | Organises a vinyl collection across physical shelves by musical kinship, artist era and shelf space, synced with Discogs and with a phased product roadmap | Python · Flask · DuckDB · Cytoscape.js · Docker |
 | [**network-wiki**](https://github.com/mark-me/network-wiki) | Python package that turns a graph into an interactive HTML page where every node and edge has its own wiki | Python · igraph · vis.js · Jinja2 · Flask |
 | [**Mixtape Society**](https://github.com/mark-me/mixtape-society) | Self-hosted web app to create, share and play mixtapes from your own music library | Flask · Docker · PWA |
