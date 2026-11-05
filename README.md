@@ -29,6 +29,7 @@ And I keep coming back to networks: how things relate often says more than the t
 - 🎓 Psychology (Leiden), with a thesis on categorisation, modelled with a neural network back in 2002.
 - 🎭 Amateur actor, director (two years) and theatre board member. The stage taught me what I bring to every presentation: know your audience, know what they need, and know what you want them to do next.
 - ✍️ Wrote R tutorials for non-experts at [exploRations](https://mark-me.github.io/) (2017 – 2019), also shared on R-bloggers: from PCA, clustering and statistical tests to [Mining Alice's Wonderland](https://mark-me.github.io/mining-alices-wonderland/), which profiles each character's emotions using the marketing idea of lift.
+- 🐧 Open source at home since 2008: only open source software, and Linux on all my own hardware, from Manjaro, Ubuntu and Fedora to NixOS on my home server today.
 
 ---
 
