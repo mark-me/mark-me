@@ -18,6 +18,8 @@ For 20+ years I've done the same three things in every role: **bring in a data t
 
 I also like to think along on strategy and how to back it with data, often around the question of what it costs to build a customer base, when it turns profitable, and how to keep it healthy.
 
+And I keep coming back to networks: how things relate often says more than the things themselves. That runs from company hierarchies at Graydon to artist networks in Music Explorer, musical kinship in Sleeve & Shelf and network-wiki, a package that gives every node and edge of a graph its own page.
+
 - 🏛️ **Dutch Customs, via BAS Consultancy (2024 – now)**: Product Owner and co-developer of a **Model Driven Data Engineering (MDDE)** platform in Python that generates data warehouse code from data models. Leading a team of six that started with no Python experience and now builds and ships the platform.
 - 📈 **Startup, via BAS Consultancy (3 months)**: Built the 5-year strategic financial plan that substantiated the growth case for investors.
 - 📊 **BAS Consultancy (2023 – 2024)**: Between assignments, built on my own initiative an end-to-end reporting solution for BAS itself, with validated file uploads, background report generation for finance, HR, marketing and account management, deployed with Docker.
