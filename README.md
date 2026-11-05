@@ -26,6 +26,7 @@ I also like to think along on strategy and how to back it with data, often aroun
 - 🧮 **Delphi (2007 – 2008)**: Strategic 5-year plans for growing and retaining donor bases for charities.
 - 🎓 Psychology (Leiden), with a thesis on categorisation, modelled with a neural network back in 2002.
 - 🎭 Amateur actor, director (two years) and theatre board member. The stage taught me what I bring to every presentation: know your audience, know what they need, and know what you want them to do next.
+- ✍️ Wrote R tutorials on PCA, clustering, t-SNE and statistical tests for non-experts at [exploRations](https://mark-me.github.io/) (2017 – 2019), also shared on R-bloggers.
 
 ---
 
