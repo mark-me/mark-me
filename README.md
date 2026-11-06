@@ -21,14 +21,20 @@ I also like to think along on strategy and how to back it with data, often aroun
 - 🏛️ **Dutch Customs, via BAS Consultancy (2024 – now)**: Product Owner and co-developer of a **Model Driven Data Engineering (MDDE)** platform in Python that generates data warehouse code from data models. Leading a team of six that started with no Python experience and now builds and ships the platform.
 - 📈 **Startup, via BAS Consultancy (3 months)**: Built the 5-year strategic financial plan that substantiated the growth case for investors.
 - 📊 **BAS Consultancy (2023 – 2024)**: Between assignments, built on my own initiative an end-to-end reporting solution for BAS itself, with validated file uploads, background report generation for finance, HR, marketing and account management, deployed with Docker.
-- 🏢 **Graydon (2015 – 2023)**: From Marketing Intelligence Analyst to **Director of Analytics**, with a review & versioning workflow for models and analyses across both teams.
+- 🛒 **Makro (2022 – 2023)**: Business Analyst for data questions. Compared stores on postcode reach and market penetration per business sector, to show which stores could win more of their market based on what others already achieved. The interactive maps were presented to the board, used to set store targets, and even printed as motivational posters for every store.
+- 🏢 **Graydon (2015 – 2022)**: From Marketing Intelligence Analyst to **Director of Analytics**, with a review & versioning workflow for models and analyses across both teams.
   - **Tailored analytics**: set up a new sub-team, taught them to develop in R and built custom analyses for one client that we then scaled into repeatable products, such as portfolio risk, market penetration and location strategy. Clients such as DIY chains opened branches in the postcode areas we recommended and closed others that cannibalised their own. Took part in pre-sales, presented the results of new products to clients, and designed the cloud/Kubernetes architecture behind them.
   - **Financial health ratings**: led the team that migrated the machine learning models behind the ratings from a legacy dataset to a new one. Clients, from banks to lease companies, had to trust the result: sudden swings in ratings could cause them audit problems, and quality could not drop. Made the analyses and gave the presentations that showed the effect on their portfolios and the stability of the ratings, and convinced them.
-- 🌷 **Bakker Hillegom (2002 – 2015)**: Active in 17 European countries.
+- 🌷 **Bakker Hillegom, products (2008 – 2015)**: Asked back for a new role, this time focused on the product range.
+  - **Forecasting fresh products**: automated the forecasting for plants, where timing is everything: they can't sit in stock for long, but can't be made on demand either, because they have to grow.
+  - **Margins and marketing potential**: analysed which products made good margins and which didn't, to know how much marketing each could carry.
+  - **Catalogues from basket analysis**: composed new catalogues from patterns in what customers bought together.
+  - **Content**: led the build of a multi-channel content management system.
+- 🧮 **Delphi (2007 – 2008)**: Strategic 5-year plans for growing and retaining donor bases for charities.
+- 🌷 **Bakker Hillegom, customers (2002 – 2007)**: Active in 17 European countries.
   - **Predictive models per country**, years before "machine learning" was a buzzword: they decided how far down the customer base a catalogue mailing still had a positive ROI, and where marketing budget went into reactivating customers. Aligned their effectiveness with the regional managers and convinced them of scoring the customer base, and set up the analysis and test policy around the models.
   - **Customer base plans**: owned the multi-year plans (acquisition cost, payback and churn) and the marketing budgets that followed from them.
-  - **Data foundations**: led the build of a marketing data warehouse and a multi-channel content management system.
-- 🧮 **Delphi (2007 – 2008)**: Strategic 5-year plans for growing and retaining donor bases for charities.
+  - **Data foundations**: led the build of a marketing data warehouse.
 
 #### Beyond work
 
