@@ -18,13 +18,11 @@ For 20+ years I've done the same three things in every role: **bring in a data t
 
 I also like to think along on strategy and how to back it with data, often around the question of what it costs to build a customer base, when it turns profitable, and how to keep it healthy.
 
-And I keep coming back to networks: how things relate often says more than the things themselves. That runs from company hierarchies at Graydon to artist networks in Music Explorer, musical kinship in Sleeve & Shelf and network-wiki, a package that gives every node and edge of a graph its own page.
-
 - 🏛️ **Dutch Customs, via BAS Consultancy (2024 – now)**: Product Owner and co-developer of a **Model Driven Data Engineering (MDDE)** platform in Python that generates data warehouse code from data models. Leading a team of six that started with no Python experience and now builds and ships the platform.
 - 📈 **Startup, via BAS Consultancy (3 months)**: Built the 5-year strategic financial plan that substantiated the growth case for investors.
 - 📊 **BAS Consultancy (2023 – 2024)**: Between assignments, built on my own initiative an end-to-end reporting solution for BAS itself, with validated file uploads, background report generation for finance, HR, marketing and account management, deployed with Docker.
 - 🏢 **Graydon (2015 – 2023)**: From Marketing Intelligence Analyst to **Director of Analytics**, with a review & versioning workflow for models and analyses across both teams.
-  - **Tailored analytics**: set up a new sub-team, taught them to develop in R and built custom analyses and reports for one client, then scaled them into repeatable products for others. Think financial risk in customer portfolios, market penetration, and location strategy for retail chains such as DIY stores: clients opened branches in the postcode areas we recommended, and closed others where their own branches were cannibalising each other. Took part in pre-sales and presented the results of new products to clients. Also designed the cloud/Kubernetes architecture behind these products.
+  - **Tailored analytics**: set up a new sub-team, taught them to develop in R and built custom analyses for one client that we then scaled into repeatable products, such as portfolio risk, market penetration and location strategy. Clients such as DIY chains opened branches in the postcode areas we recommended and closed others that cannibalised their own. Took part in pre-sales, presented the results of new products to clients, and designed the cloud/Kubernetes architecture behind them.
   - **Financial health ratings**: led the team that migrated the machine learning models behind the ratings from a legacy dataset to a new one. Clients, from banks to lease companies, had to trust the result: sudden swings in ratings could cause them audit problems, and quality could not drop. Made the analyses and gave the presentations that showed the effect on their portfolios and the stability of the ratings, and convinced them.
 - 🌷 **Bakker Hillegom (2002 – 2015)**: Active in 17 European countries.
   - **Predictive models per country**, years before "machine learning" was a buzzword: they decided how far down the customer base a catalogue mailing still had a positive ROI, and where marketing budget went into reactivating customers. Aligned their effectiveness with the regional managers and convinced them of scoring the customer base, and set up the analysis and test policy around the models.
@@ -77,6 +75,8 @@ Turning a team of newcomers into one that builds a product professionally comes 
 
 ### 🚀 Featured projects
 
+I keep coming back to networks: how things relate often says more than the things themselves. Several of these projects grew from that.
+
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [**Sleeve & Shelf**](https://github.com/mark-me/sleeve-shelf) | Organises a vinyl collection across physical shelves by musical kinship, artist era and shelf space, synced with Discogs and with a phased product roadmap | Python · Flask · DuckDB · Cytoscape.js · Docker |
@@ -91,4 +91,4 @@ Mixtape Society, Mnemosynce and Sleeve & Shelf run on my own home server, declar
 
 ### 💬 Let's talk about
 
-Innovative data projects, model-driven engineering, growing teams that build products to last, and the business case behind them.
+Growing a team of newcomers into one that ships, model-driven data engineering, getting sceptical stakeholders to act on analysis, and the business case behind a data product.
