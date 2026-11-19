@@ -48,13 +48,13 @@ I also like to think along on strategy and how to back it with data, often aroun
 
 ### 🌱 How I grow teams
 
-My psychology studies gave me three things I use with every team: understanding what motivates people, knowing how they learn, and asking the questions that get to what someone really means. Turning a team of newcomers into one that builds a product professionally comes down to a few habits:
+My psychology studies gave me three things I use with every team: understanding what motivates people, recognising which stage of learning they are in, and asking the questions that get to what someone really means. Turning a team of newcomers into one that builds a product professionally comes down to a few habits:
 
 - 🚦 **A stable release strategy**: formalised, so everyone knows when and how code reaches production.
 - 🌿 **A git strategy that scales**: branching and merging that keeps working across multiple repositories.
 - 🧱 **Programming principles**: separation of concerns, single responsibility and clean architecture as the shared language for design and review, explained in talks I give the team.
 - 🤝 **Ownership and learning by review**: everyone owns a part of the product and builds it out themselves, and code reviews are learning moments, not gatekeeping.
-- 💡 **The best idea wins, not the person**: the data field is vast, and the more I learn, the more I see what I don't know. I've often worked with developers who know far more than I do about their part of it, and I make room for their ideas. Learning from them is part of the job.
+- 💡 **The best idea wins, not the person**: the data field is vast, and the more I learn, the more I see what I don't know (the psychologist in me calls that conscious incompetence). I've often worked with developers who know far more than I do about their part of it, and I make room for their ideas. Learning from them is part of the job.
 - ✅ **Test plans as the release gate**: no release without a test plan that was written, used and signed off.
 - 🎯 **Thinking from the consumer**: understanding what the users of our products care about, and shaping both the product and the story around that.
 
