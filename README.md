@@ -48,7 +48,7 @@ I also like to think along on strategy and how to back it with data, often aroun
 
 ### 🌱 How I grow teams
 
-Turning a team of newcomers into one that builds a product professionally comes down to a few habits:
+My psychology studies gave me three things I use with every team: understanding what motivates people, knowing how they learn, and asking the questions that get to what someone really means. Turning a team of newcomers into one that builds a product professionally comes down to a few habits:
 
 - 🚦 **A stable release strategy**: formalised, so everyone knows when and how code reaches production.
 - 🌿 **A git strategy that scales**: branching and merging that keeps working across multiple repositories.
