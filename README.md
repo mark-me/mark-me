@@ -94,6 +94,8 @@ I keep coming back to networks: how things relate often says more than the thing
 
 Mixtape Society, Mnemosynce and Sleeve & Shelf run on my own home server, declared as code in NixOS: flakes, mirrored ZFS, encrypted secrets and automatic updates, with about 25 Docker services reachable privately via Tailscale. Mixtape Society and Sleeve & Shelf also get a separate test environment.
 
+Sleeve & Shelf and Mixtape Society treat security as a release gate: Trivy scans their dependencies and published container image on every pull request and on a schedule, and a HIGH or CRITICAL vulnerability with a fix fails the build. Both ship versioned releases with a changelog and carry their user guide inside the app.
+
 In progress: [**Fretbop**](https://github.com/mark-me/fretbop), a self-hosted app for learning jazz on ukulele and guitar by ear. No code yet, on purpose: I let AI grill me on the design first, and every decision lands in the repo as an architecture decision record or a glossary term.
 
 ---
