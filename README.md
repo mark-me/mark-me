@@ -63,6 +63,7 @@ Turning a team of newcomers into one that builds a product professionally comes 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat&logo=uv&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat&logo=polars&logoColor=white)
@@ -92,6 +93,8 @@ I keep coming back to networks: how things relate often says more than the thing
 | [**Music Explorer**](https://github.com/mark-me/music-explorer) | Helps you rediscover your Discogs collection with random picks from what you own, fed by an ETL pipeline that also derives an artist network | Python · Polars · DuckDB · Flask · Celery · igraph |
 
 Mixtape Society, Mnemosynce and Sleeve & Shelf run on my own home server, declared as code in NixOS: flakes, mirrored ZFS, encrypted secrets and automatic updates, with about 25 Docker services reachable privately via Tailscale. Mixtape Society and Sleeve & Shelf also get a separate test environment.
+
+In progress: [**Fretbop**](https://github.com/mark-me/fretbop), a self-hosted app for learning jazz on ukulele and guitar by ear. No code yet, on purpose: I let AI grill me on the design first, and every decision lands in the repo as an architecture decision record or a glossary term.
 
 ---
 
