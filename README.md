@@ -39,7 +39,7 @@ I also like to think along on strategy and how to back it with data, often aroun
 
 #### Beyond work
 
-- 🎓 Psychology (Leiden), with a thesis on categorisation, modelled with a neural network back in 2002.
+- 🎓 Cognitive & Theorethical Psychology (Leiden), with a thesis on categorisation, modelled with a neural network back in 2002.
 - 🔺 The Pyramid Principle, from De Monchy & Bakker's [Masterclass IJzersterk Verhaal](https://demonchyenbakker.nl/presentaties-en-presenteren/masterclass-ijzersterk-verhaal/): start from your audience, what they need and what you want them to do next, then build the story to get there.
 - 🎭 Amateur actor, and director for two years. The stage taught me how to deliver it: face your audience, take your time, speak calmly and clearly. Directing ran on the same principle as my teams: people need to feel safe to make suggestions and to experiment. Some of those experiments brought gifts I could never have thought up myself.
 - ✍️ Wrote R tutorials for non-experts at [exploRations](https://mark-me.github.io/) (2017 - 2019), also shared on R-bloggers: from PCA, clustering and statistical tests to [Mining Alice's Wonderland](https://mark-me.github.io/mining-alices-wonderland/), which profiles each character's emotions using the marketing idea of lift.
