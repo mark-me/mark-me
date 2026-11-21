@@ -18,6 +18,11 @@ For 20+ years I've done the same three things in every role: **bring in a data t
 
 I also like to think along on strategy and how to back it with data, often around the question of what it costs to build a customer base, when it turns profitable, and how to keep it healthy.
 
+**Now:** Product Owner and co-developer of a **Model Driven Data Engineering (MDDE)** platform at Dutch Customs, via BAS Consultancy, leading a team of six that started with no Python experience and now builds and ships it.
+
+<details>
+<summary><b>Career: from predictive models in 2002 to model-driven engineering today</b></summary>
+
 - 💼 **BAS Consultancy (2023 - now)**: Consultant, currently on assignment at Dutch Customs.
   - 🏛️ **Dutch Customs (2024 - now)**: Product Owner and co-developer of a **Model Driven Data Engineering (MDDE)** platform in Python that generates data warehouse code from data models. Leading a team of six that started with no Python experience and now builds and ships the platform.
   - 📈 **Startup (3 months)**: Built the 5-year strategic financial plan that substantiated the growth case for investors.
@@ -36,6 +41,8 @@ I also like to think along on strategy and how to back it with data, often aroun
   - **Predictive models per country**, years before "machine learning" was a buzzword: they decided how far down the customer base a catalogue mailing still had a positive ROI, and where marketing budget went into reactivating customers. Aligned their effectiveness with the regional managers and convinced them of scoring the customer base, and set up the analysis and test policy around the models.
   - **Customer base plans**: owned the multi-year plans (acquisition cost, payback and churn) and the marketing budgets that followed from them.
   - **Data foundations**: led the build of a marketing data warehouse.
+
+</details>
 
 ---
 
