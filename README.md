@@ -37,14 +37,6 @@ I also like to think along on strategy and how to back it with data, often aroun
   - **Customer base plans**: owned the multi-year plans (acquisition cost, payback and churn) and the marketing budgets that followed from them.
   - **Data foundations**: led the build of a marketing data warehouse.
 
-#### Beyond work
-
-- 🎓 Cognitive & Theorethical Psychology (Leiden), with a thesis on categorisation, modelled with a neural network back in 2002.
-- 🔺 The Pyramid Principle, from De Monchy & Bakker's [Masterclass IJzersterk Verhaal](https://demonchyenbakker.nl/presentaties-en-presenteren/masterclass-ijzersterk-verhaal/): start from your audience, what they need and what you want them to do next, then build the story to get there.
-- 🎭 Amateur actor, and director for two years. The stage taught me how to deliver it: face your audience, take your time, speak calmly and clearly. Directing ran on the same principle as my teams: people need to feel safe to make suggestions and to experiment. Some of those experiments brought gifts I could never have thought up myself.
-- ✍️ Wrote R tutorials for non-experts at [exploRations](https://mark-me.github.io/) (2017 - 2019), also shared on R-bloggers: from PCA, clustering and statistical tests to [Mining Alice's Wonderland](https://mark-me.github.io/mining-alices-wonderland/), which profiles each character's emotions using the marketing idea of lift.
-- 🐧 Open source at home since 2008: only open source software, and Linux on all my own hardware, from Manjaro, Ubuntu and Fedora to NixOS on my home server today.
-
 ---
 
 ### 🌱 How I grow teams
@@ -66,6 +58,26 @@ My psychology studies gave me three things I use with every team: understanding 
 - 🌿 **A git strategy that scales**: branching and merging that keeps working across multiple repositories.
 - ✅ **Test plans as the release gate**: no release without a test plan that was written, used and signed off.
 - 🚦 **A stable release strategy**: formalised, so everyone knows when and how code reaches production.
+
+---
+
+### 🚀 Featured projects
+
+I keep coming back to networks: how things relate often says more than the things themselves. Several of these projects grew from that.
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**Sleeve & Shelf**](https://github.com/mark-me/sleeve-shelf) | Organises a vinyl collection across physical shelves by musical kinship, artist era and shelf space, synced with Discogs and with a phased product roadmap | Python · Flask · DuckDB · Cytoscape.js · Docker |
+| [**network-wiki**](https://github.com/mark-me/network-wiki) | Python package that turns a graph into an interactive HTML page where every node and edge has its own wiki | Python · igraph · vis.js · Jinja2 · Flask |
+| [**Mixtape Society**](https://github.com/mark-me/mixtape-society) | Self-hosted web app to create, share and play mixtapes from your own music library | Flask · Docker · PWA |
+| [**Mnemosynce**](https://github.com/mark-me/mnemosynce) | Backup orchestrator for Linux home servers: rsync snapshots, retention and a web dashboard | Python · rsync · APScheduler · Docker |
+| [**Music Explorer**](https://github.com/mark-me/music-explorer) | Helps you rediscover your Discogs collection with random picks from what you own, fed by an ETL pipeline that also derives an artist network | Python · Polars · DuckDB · Flask · Celery · igraph |
+
+Mixtape Society, Mnemosynce and Sleeve & Shelf run on my own home server, declared as code in NixOS: flakes, mirrored ZFS, encrypted secrets and automatic updates, with about 25 Docker services reachable privately via Tailscale. Mixtape Society and Sleeve & Shelf also get a separate test environment.
+
+Sleeve & Shelf and Mixtape Society treat security as a release gate: Trivy scans their dependencies and published container image on every pull request and on a schedule, and a HIGH or CRITICAL vulnerability with a fix fails the build. Both ship versioned releases with a changelog and carry their user guide inside the app.
+
+In progress: [**Fretbop**](https://github.com/mark-me/fretbop), a self-hosted app for learning jazz on ukulele and guitar by ear. No code yet, on purpose: I let AI grill me on the design first, and every decision lands in the repo as an architecture decision record or a glossary term.
 
 ---
 
@@ -91,23 +103,13 @@ My psychology studies gave me three things I use with every team: understanding 
 
 ---
 
-### 🚀 Featured projects
+### 🌍 Beyond work
 
-I keep coming back to networks: how things relate often says more than the things themselves. Several of these projects grew from that.
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**Sleeve & Shelf**](https://github.com/mark-me/sleeve-shelf) | Organises a vinyl collection across physical shelves by musical kinship, artist era and shelf space, synced with Discogs and with a phased product roadmap | Python · Flask · DuckDB · Cytoscape.js · Docker |
-| [**network-wiki**](https://github.com/mark-me/network-wiki) | Python package that turns a graph into an interactive HTML page where every node and edge has its own wiki | Python · igraph · vis.js · Jinja2 · Flask |
-| [**Mixtape Society**](https://github.com/mark-me/mixtape-society) | Self-hosted web app to create, share and play mixtapes from your own music library | Flask · Docker · PWA |
-| [**Mnemosynce**](https://github.com/mark-me/mnemosynce) | Backup orchestrator for Linux home servers: rsync snapshots, retention and a web dashboard | Python · rsync · APScheduler · Docker |
-| [**Music Explorer**](https://github.com/mark-me/music-explorer) | Helps you rediscover your Discogs collection with random picks from what you own, fed by an ETL pipeline that also derives an artist network | Python · Polars · DuckDB · Flask · Celery · igraph |
-
-Mixtape Society, Mnemosynce and Sleeve & Shelf run on my own home server, declared as code in NixOS: flakes, mirrored ZFS, encrypted secrets and automatic updates, with about 25 Docker services reachable privately via Tailscale. Mixtape Society and Sleeve & Shelf also get a separate test environment.
-
-Sleeve & Shelf and Mixtape Society treat security as a release gate: Trivy scans their dependencies and published container image on every pull request and on a schedule, and a HIGH or CRITICAL vulnerability with a fix fails the build. Both ship versioned releases with a changelog and carry their user guide inside the app.
-
-In progress: [**Fretbop**](https://github.com/mark-me/fretbop), a self-hosted app for learning jazz on ukulele and guitar by ear. No code yet, on purpose: I let AI grill me on the design first, and every decision lands in the repo as an architecture decision record or a glossary term.
+- 🎓 Cognitive & Theorethical Psychology (Leiden), with a thesis on categorisation, modelled with a neural network back in 2002.
+- 🔺 The Pyramid Principle, from De Monchy & Bakker's [Masterclass IJzersterk Verhaal](https://demonchyenbakker.nl/presentaties-en-presenteren/masterclass-ijzersterk-verhaal/): start from your audience, what they need and what you want them to do next, then build the story to get there.
+- 🎭 Amateur actor, and director for two years. The stage taught me how to deliver it: face your audience, take your time, speak calmly and clearly. Directing ran on the same principle as my teams: people need to feel safe to make suggestions and to experiment. Some of those experiments brought gifts I could never have thought up myself.
+- ✍️ Wrote R tutorials for non-experts at [exploRations](https://mark-me.github.io/) (2017 - 2019), also shared on R-bloggers: from PCA, clustering and statistical tests to [Mining Alice's Wonderland](https://mark-me.github.io/mining-alices-wonderland/), which profiles each character's emotions using the marketing idea of lift.
+- 🐧 Open source at home since 2008: only open source software, and Linux on all my own hardware, from Manjaro, Ubuntu and Fedora to NixOS on my home server today.
 
 ---
 
